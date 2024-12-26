@@ -1,0 +1,1 @@
+void perform_ota_update(const char *ota_url);
